@@ -42,6 +42,10 @@ main {
   padding: 1rem;
 
 }
+
+img {
+  padding: 2rem 0rem;
+}
 aside {
   grid-column: 3 / 4;
   padding: 1rem;
